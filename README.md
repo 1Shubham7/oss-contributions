@@ -26,7 +26,7 @@
 
 ### Total PRs merged - 79
 
-### CERN (CS3)
+### CERN
 
 **cs3org/charts**
 
