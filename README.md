@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Total PRs merged - 86
+### Total PRs merged - 87
 
 ### CERN
 
@@ -183,3 +183,4 @@
 5. [Fix Loki chart](https://github.com/Obmondo/KubeAid/pull/192)
 6. [fix(orphan-pvc): single-line KubeDetectOrphanPvc description, grouped and sorted by ns](https://github.com/Obmondo/KubeAid/pull/265)
 7. [Fix `VeleroBackupExceededRPO`](https://github.com/Obmondo/KubeAid/pull/268)
+8. [fix(backup-exporter): alert VeleroBackupMissing once per namespace, listing every volume without a backup](https://github.com/Obmondo/KubeAid/pull/275)
