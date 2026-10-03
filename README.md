@@ -194,4 +194,3 @@
 
 **VictoriaMetrics/VictoriaMetrics**
 
-_No PRs merged yet._
