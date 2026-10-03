@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Total PRs merged - 82
+### Total PRs merged - 83
 
 ### CERN
 
@@ -179,3 +179,4 @@
 1. [Update sealed secret guide with important SealedSecrets notes](https://github.com/Obmondo/KubeAid/pull/57)
 2. [Add helm charts for golaerts and ntfy (complete OSS IRM stack)](https://github.com/Obmondo/KubeAid/pull/115)
 3. [(chore): added a init container to make goalerts wait for pgsql](https://github.com/Obmondo/KubeAid/pull/121)
+4. [(fix): pgsql logical backups name as a variable string](https://github.com/Obmondo/KubeAid/pull/126)
