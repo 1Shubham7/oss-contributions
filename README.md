@@ -20,6 +20,8 @@
     <a href="https://github.com/kubernetes/">Kubernetes</a>
     ·
     <a href="https://github.com/Obmondo/KubeAid">KubeAid</a>
+    ·
+    <a href="https://github.com/VictoriaMetrics">VictoriaMetrics</a>
   </p>
 </div>
 
@@ -187,3 +189,9 @@
 9. [chore: replace internal cluster, customer and host names with example values in docs, examples and tests](https://github.com/Obmondo/KubeAid/pull/278)
 10. [Feat/kyverno cel policies](https://github.com/Obmondo/KubeAid/pull/357)
 11. [feat(kyverno): add replace-container-image-registries kyverno policy in CEL format](https://github.com/Obmondo/KubeAid/pull/377)
+
+### VictoriaMetrics
+
+**VictoriaMetrics/VictoriaMetrics**
+
+_No PRs merged yet._
