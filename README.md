@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Total PRs merged - 89
+### Total PRs merged - 90
 
 ### CERN
 
@@ -186,3 +186,4 @@
 8. [fix(backup-exporter): alert VeleroBackupMissing once per namespace, listing every volume without a backup](https://github.com/Obmondo/KubeAid/pull/275)
 9. [chore: replace internal cluster, customer and host names with example values in docs, examples and tests](https://github.com/Obmondo/KubeAid/pull/278)
 10. [Feat/kyverno cel policies](https://github.com/Obmondo/KubeAid/pull/357)
+11. [feat(kyverno): add replace-container-image-registries kyverno policy in CEL format](https://github.com/Obmondo/KubeAid/pull/377)
