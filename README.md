@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Total PRs merged - 84
+### Total PRs merged - 85
 
 ### CERN
 
@@ -181,3 +181,4 @@
 3. [(chore): added a init container to make goalerts wait for pgsql](https://github.com/Obmondo/KubeAid/pull/121)
 4. [(fix): pgsql logical backups name as a variable string](https://github.com/Obmondo/KubeAid/pull/126)
 5. [Fix Loki chart](https://github.com/Obmondo/KubeAid/pull/192)
+6. [fix(orphan-pvc): single-line KubeDetectOrphanPvc description, grouped and sorted by ns](https://github.com/Obmondo/KubeAid/pull/265)
