@@ -18,13 +18,15 @@
     <a href="https://github.com/oras-project/">CNCF ORAS</a>
     ·
     <a href="https://github.com/kubernetes/">Kubernetes</a>
+    ·
+    <a href="https://github.com/Obmondo/KubeAid">KubeAid</a>
   </p>
 </div>
 
 <br>
 <br>
 
-### Total PRs merged - 79
+### Total PRs merged - 80
 
 ### CERN
 
@@ -169,3 +171,9 @@
 **cncf/mentoring**
 
 1. [Fix formatting of kpt link](https://github.com/cncf/mentoring/pull/1750)
+
+### KubeAid
+
+**Obmondo/KubeAid**
+
+1. [Update sealed secret guide with important SealedSecrets notes](https://github.com/Obmondo/KubeAid/pull/57)
