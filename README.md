@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Total PRs merged - 80
+### Total PRs merged - 81
 
 ### CERN
 
@@ -177,3 +177,4 @@
 **Obmondo/KubeAid**
 
 1. [Update sealed secret guide with important SealedSecrets notes](https://github.com/Obmondo/KubeAid/pull/57)
+2. [Add helm charts for golaerts and ntfy (complete OSS IRM stack)](https://github.com/Obmondo/KubeAid/pull/115)
