@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Total PRs merged - 85
+### Total PRs merged - 86
 
 ### CERN
 
@@ -182,3 +182,4 @@
 4. [(fix): pgsql logical backups name as a variable string](https://github.com/Obmondo/KubeAid/pull/126)
 5. [Fix Loki chart](https://github.com/Obmondo/KubeAid/pull/192)
 6. [fix(orphan-pvc): single-line KubeDetectOrphanPvc description, grouped and sorted by ns](https://github.com/Obmondo/KubeAid/pull/265)
+7. [Fix `VeleroBackupExceededRPO`](https://github.com/Obmondo/KubeAid/pull/268)
