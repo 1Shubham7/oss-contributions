@@ -185,8 +185,6 @@
 
 ### VictoriaMetrics
 
-**VictoriaMetrics/VictoriaMetrics**
-
 **VictoriaMetrics/VictoriaTraces**
 
 1. [docs: base Docker image is distroless since v0.10.0, not Alpine](https://github.com/VictoriaMetrics/VictoriaTraces/pull/273)
