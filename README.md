@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### Total PRs merged - 90
+### Total PRs merged - 91
 
 ### CERN
 
@@ -190,3 +190,4 @@
 **VictoriaMetrics/VictoriaTraces**
 
 1. [docs: base Docker image is distroless since v0.10.0, not Alpine](https://github.com/VictoriaMetrics/VictoriaTraces/pull/273)
+2. [deployment: add make package-* commands for building single-arch images locally](https://github.com/VictoriaMetrics/VictoriaTraces/pull/291)
