@@ -19,7 +19,7 @@
     ·
     <a href="https://github.com/kubernetes/">Kubernetes</a>
     ·
-    <a href="https://github.com/Obmondo/KubeAid">KubeAid</a>
+    <a href="https://github.com/Obmondo">Obmondo (KubeAid, LinuxAid)</a>
     ·
     <a href="https://github.com/VictoriaMetrics">VictoriaMetrics</a>
   </p>
@@ -167,7 +167,7 @@
 
 1. [Fix formatting of kpt link](https://github.com/cncf/mentoring/pull/1750)
 
-### KubeAid
+### Obmondo
 
 **Obmondo/KubeAid**
 
