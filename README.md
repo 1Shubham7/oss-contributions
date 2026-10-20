@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### Total PRs merged - 95
+### Total PRs merged - 96
 
 ### CERN
 
@@ -189,6 +189,10 @@
 **Obmondo/LinuxAid**
 
 15. [add SECURITY.md for CRA compliant private reporting](https://github.com/Obmondo/LinuxAid/pull/126)
+
+**Obmondo/linuxaid-cli**
+
+16. [ci(release): drop runs-on from the jobs that call the shared build-image workflow](https://github.com/Obmondo/linuxaid-cli/pull/26)
 
 ### VictoriaMetrics
 
