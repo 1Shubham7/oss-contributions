@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### Total PRs merged - 93
+### Total PRs merged - 94
 
 ### CERN
 
@@ -184,6 +184,7 @@
 11. [feat(kyverno): add replace-container-image-registries kyverno policy in CEL format](https://github.com/Obmondo/KubeAid/pull/377)
 12. [chore(linuxaid-agents): bump linuxaid-cli images to v1.11.5](https://github.com/Obmondo/KubeAid/pull/454)
 13. [fix(velero): alert VeleroUnsuccessfulBackup on the newest success across daily and weekly backups](https://github.com/Obmondo/KubeAid/pull/455)
+14. [fix(velero): turn the weekly backup schedule on by default](https://github.com/Obmondo/KubeAid/pull/459)
 
 ### VictoriaMetrics
 
