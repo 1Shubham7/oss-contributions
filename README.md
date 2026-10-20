@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### Total PRs merged - 94
+### Total PRs merged - 95
 
 ### CERN
 
@@ -185,6 +185,10 @@
 12. [chore(linuxaid-agents): bump linuxaid-cli images to v1.11.5](https://github.com/Obmondo/KubeAid/pull/454)
 13. [fix(velero): alert VeleroUnsuccessfulBackup on the newest success across daily and weekly backups](https://github.com/Obmondo/KubeAid/pull/455)
 14. [fix(velero): turn the weekly backup schedule on by default](https://github.com/Obmondo/KubeAid/pull/459)
+
+**Obmondo/LinuxAid**
+
+15. [add SECURITY.md for CRA compliant private reporting](https://github.com/Obmondo/LinuxAid/pull/126)
 
 ### VictoriaMetrics
 
