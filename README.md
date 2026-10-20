@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### Total PRs merged - 91
+### Total PRs merged - 92
 
 ### CERN
 
@@ -182,6 +182,7 @@
 9. [chore: replace internal cluster, customer and host names with example values in docs, examples and tests](https://github.com/Obmondo/KubeAid/pull/278)
 10. [Feat/kyverno cel policies](https://github.com/Obmondo/KubeAid/pull/357)
 11. [feat(kyverno): add replace-container-image-registries kyverno policy in CEL format](https://github.com/Obmondo/KubeAid/pull/377)
+12. [chore(linuxaid-agents): bump linuxaid-cli images to v1.11.5](https://github.com/Obmondo/KubeAid/pull/454)
 
 ### VictoriaMetrics
 
