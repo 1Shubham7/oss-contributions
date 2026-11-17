@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### Total PRs merged - 96
+### Total PRs merged - 97
 
 ### CERN
 
@@ -193,6 +193,10 @@
 **Obmondo/linuxaid-cli**
 
 16. [ci(release): drop runs-on from the jobs that call the shared build-image workflow](https://github.com/Obmondo/linuxaid-cli/pull/26)
+
+**Obmondo/kubeaid-cli**
+
+17. [fix(hetzner): let sealed-secrets adopt the pre-created cloud-credentials secret](https://github.com/Obmondo/kubeaid-cli/pull/126)
 
 ### VictoriaMetrics
 
